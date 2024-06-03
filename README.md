@@ -1,4 +1,4 @@
-# Título do Projeto: Canal Tech Jovem: Desvendando a Era da Tecnologia
+Canal Tech Jovem: Desvendando a Era da Tecnologia
 
 ## 📒 Descrição
 É o projeto de um canal para o YouTube, ensinando diversas áreas da tecnologia
